@@ -1,0 +1,7 @@
+{
+  "name": "Local Connect",
+  "description": "A local vendor support application that connects customers with nearby vendors for purchasing daily essentials. Features include dual login for customers and vendors, multi-language support, product search, order tracking, and dynamic theming.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
